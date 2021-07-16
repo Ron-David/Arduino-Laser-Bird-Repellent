@@ -14,9 +14,13 @@ Requirements:
 - Wires
 - Servo bracket
 
-/-------------------------/
 
-Connection table:
+
+<img width="812" alt="Screen Shot 2021-07-16 at 17 51 27" src="https://user-images.githubusercontent.com/77014885/125966999-f1d18b1b-1b0d-4dbf-80a4-8255f21efb36.png">
+
+
+
+Connection:
 
 NodeMCU: 					
 - 3.3V to 3.3V 			
@@ -46,9 +50,6 @@ LASER:
 
 
 <img width="560" alt="Screen Shot 2021-07-16 at 18 39 00" src="https://user-images.githubusercontent.com/77014885/125975282-3c510146-eeaf-4df0-b81c-7d9a5d95e180.png">
-
-<img width="812" alt="Screen Shot 2021-07-16 at 17 51 27" src="https://user-images.githubusercontent.com/77014885/125966999-f1d18b1b-1b0d-4dbf-80a4-8255f21efb36.png">
-
 
 
 https://user-images.githubusercontent.com/77014885/125963787-c62c672d-6704-40d5-9aba-82deb52571a2.mov
