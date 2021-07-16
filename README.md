@@ -8,7 +8,7 @@ Requirements:
 - Ultrasonic sensor
 - Laser
 - 2 Servos
-- Wifi (optional) // I used NodeMCU as a wifi
+- Wifi module (optional) // I used NodeMCU as a wifi module
 - Wires
 - Servo bracket
 
